@@ -1,0 +1,3 @@
+sudo ifconfig wlp5s0 promisc   把网卡设置为混杂模式
+sudo ifconfig wlp5s0 -promisc  把网卡设置为混杂模式 --取消
+
